@@ -77,7 +77,7 @@ export default function Home() {
               </svg>
             </div>
             <span className='text-xl font-semibold tracking-tight'>
-              Texts<span className='text-accent-primary'></span>
+              Share<span className='text-accent-primary'>Text</span>
             </span>
           </a>
 
@@ -307,7 +307,7 @@ export default function Home() {
       {/* Footer */}
       <footer className='py-6 px-4 sm:px-6 lg:px-8 border-t border-white/5'>
         <div className='max-w-4xl mx-auto text-center text-text-muted text-sm'>
-          <p>Texts • Share text online instantly for free</p>
+          <p>ShareText • Share text online instantly for free</p>
         </div>
       </footer>
     </main>

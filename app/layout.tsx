@@ -2,12 +2,12 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Texts',
+  title: 'ShareText - Share text online instantly',
   description:
     'Share text snippets instantly with unique URLs. Simple, fast, and free text sharing.',
   keywords: 'share text, text sharing, paste, snippet, code sharing',
   openGraph: {
-    title: 'Texts - Share text online instantly',
+    title: 'ShareText - Share text online instantly',
     description:
       'Share text snippets instantly with unique URLs. Simple, fast, and free text sharing.',
     type: 'website',
